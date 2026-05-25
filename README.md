@@ -74,9 +74,9 @@ To maximize data density without overcrowding the dashboard, I implemented custo
 ![Main Dashboard](dashboard/dashboard.png)
 
 ### Interactive Tooltip Demonstration (`?` Hover)
-![Tooltip Preview 1](dashboard/dashboard_tooltip_preview.png)
+![Tooltip Preview 1](dashboard/dashboard_tooltip_preview1.png)
 ![Tooltip Preview 2](dashboard/dashboard_tooltip_preview2.png)
-![Tooltip Preview 3](dashboard/dashboard_tooltip_preview3.png) <--- THÊM CHÍNH XÁC DÒNG NÀY VÀO ĐÂY
+![Tooltip Preview 3](dashboard/dashboard_tooltip_preview3.png) 
 ---
 
 ## 🚀 Final Strategic Summary
